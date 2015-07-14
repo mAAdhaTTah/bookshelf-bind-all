@@ -1,6 +1,6 @@
 {
   "name": "bookshelf-bind-all",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Bind events to all instances of your bookshelf models",
   "main": "index.js",
   "scripts": {
